@@ -1,0 +1,16 @@
+My town's theme is happiness town.
+
+There are four parts of my town. The residential area has two houses to represent 
+houses' group in this area. There is also a park in this area where parents can 
+bring their kids to play. The main type of transportation is car in this part. 
+The residential area is separated with other parts by a river.
+
+A bridge connects the residential area with train station. In the middle of the 
+train staion, there is a landmark which is a sphere reflecting the environment
+around the town.
+
+Near to the train station is a lake. There is a boat on the lake so that visitors 
+can have fun there.
+
+The last part is natural park. There are many trees and a hill. The dark green 
+represents a higher altitude of this area. 

@@ -1,0 +1,28 @@
+Advanced Thing: 
+
+I tried to make a displacement map for the plane so that dark green part is higher 
+than ligher green part representing a higher altitude. While displacement map is 
+changing vertex shader and the plane is a flat surface so it is not work this way.
+I do many searchs on how to change altitude of the surface but I did not find useful 
+information to help me reach my expectation. But at least I put in my effort and 
+tried to do that for a long time.
+
+I also tried many ways to add snow effect the the town. The object Snow is in natural.js,
+but it seems not right. I tried to generate 1000 random positions for snow particles. 
+Then put every snow particle in a group and every time check the position of the snow 
+article, if it goes out of the boundary, resign a new random value to the particle; if 
+it is still in the boundary, reduce y values a little bit and reduce the x values twice 
+as much as y does, so that the snow will fall down with some realistic slope. 
+
+Train is an complex object, it is kind of challenging to put all the small pieces
+(tyres, chimney, and carriage) together in the right place. Especially when the 
+train is moving it envoloves many rotations and tranlations. Sometimes when the 
+world axis is mixed up with local axis, it is really challenging to make things 
+look right. 
+
+Similar to train, quadcopter is also an complex object. The most challenging part is
+the propeller. It is challenging to make it rotate while the quadcopter is flying.
+
+I also think I include many different types of objects in this town to meet the 
+requirement of diversity. Also it is not that much that makes audiences dazzling.
+

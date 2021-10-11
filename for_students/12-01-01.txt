@@ -1,0 +1,8 @@
+1. Please give attribution for your environment map image INCLUDING any conversion process you did.
+
+I used the equirectangular picture given by Braeden Lisowski on piazza. 
+Then I used the handy web converter given in the workbook to convert the equirectangular picture into cubemap.
+
+2. Please explain what you were trying to make with your bump/normal map, and whether it is a bump or normal map.
+
+Like the example given in class, I paint some white and black blurry dots to the surface has some sags and crests. It is a bump map.

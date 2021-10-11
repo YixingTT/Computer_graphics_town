@@ -1,0 +1,9 @@
+List all attributions here, this include "self-attributions":
+
+Houses, tree, swing, carousel, train, and quadcopter are from my past workbook8 and workbook9.
+
+I download the car and bridge model from turbosquid.com.
+
+I download the sky image from stock.adobe.com. Other images are downloaded from google.
+
+I draw the plane map by myself and convert that to an image to use as texture.

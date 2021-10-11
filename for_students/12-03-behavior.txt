@@ -1,0 +1,11 @@
+Three different behaviors that you made:
+1. quadcopter flies around the town
+2. the sphere landmark is rotating.
+3. seats in carousel go up and down 
+
+One behavior that is not simple:
+Not simple: helicopter stops at different places
+Not simple: The propeller of the quadcopter is rotating while it is flying.
+
+Animated Articulated Figure:
+Articulated: The propeller of the quadcopter is rotating while it is flying.

@@ -1,0 +1,21 @@
+Two kinds of objects created for this assignment:
+1. Boat-0 (a boat on the lake use wood texture shader)
+2. Mountain-0 (use bump map)
+
+Five other kinds of objects that you created:
+3. PyramidHip-0 (a house with texture mapping)
+4. Tree-7 (made of simple primaries)
+5. Carousel-0 (a object with up and down behavior)
+6. Train-0 (a moviing object following track)
+7. QuadCop-0 (a moving object flying around the town)
+
+At least on of each type of object:
+Building/structure: house: PyramidHip-0 (a house with texture mapping)
+Vehicle: train: Train-0 (a moviing object following track)
+Natural Element: tree: Tree-7 (made of simple primaries)
+
+Object loaded from a model file:
+Model: Objfile(./assets/bridge.obj) (use model)
+
+An object with a shader that you wrote:
+ShaderObj: Boat-0 (a boat on the lake use wood texture shader)
